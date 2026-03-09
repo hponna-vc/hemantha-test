@@ -1,0 +1,21 @@
+Date: Mon, 09 Mar 2026 10:25:04 +0000
+MD5Sum:
+ 58e1f9492a5b866a21b490589d8aca18               38 Release
+ f379eea3b41202c6682f3dde6b376f9e              148 dists/stable/Release
+ f9ae8e6778453e8dc14e0d5208c9a3ca              300 dists/stable/main/binary-all/Packages.gz
+ f9ae8e6778453e8dc14e0d5208c9a3ca              300 dists/stable/main/binary-arm64/Packages.gz
+SHA1:
+ 9d3f5fc3b538bd96607bcec2044cffcc4c76d852               38 Release
+ b1072af3b801c12467bb9ea2263eed16cf6e5822              148 dists/stable/Release
+ a9cb22e5c1defc489e1f85b4b605574d1a5861b3              300 dists/stable/main/binary-all/Packages.gz
+ a9cb22e5c1defc489e1f85b4b605574d1a5861b3              300 dists/stable/main/binary-arm64/Packages.gz
+SHA256:
+ 2fd1f7e1b56b6eb44d7faf54c44ec6e5601b5d7e2618a5e66a44117ef6076508               38 Release
+ 450965bfe1cbb6aa46a2badd95fcb9a72a336dc1c826d08a373ad8f8c597a71d              148 dists/stable/Release
+ 6b6db3ed2c24610ebf73a150fe3fa7fa8cd3d6aced8ac0551079f02d1965340a              300 dists/stable/main/binary-all/Packages.gz
+ 6b6db3ed2c24610ebf73a150fe3fa7fa8cd3d6aced8ac0551079f02d1965340a              300 dists/stable/main/binary-arm64/Packages.gz
+SHA512:
+ fcf2cce48f9f8ace2c7a3e4d9b9c9c4c890a68ad94c47c7df7569bda2bbd73b0485eaa53f0392d5c5d0f06872fa276c1cafcac5a60971d869ebda0ca05224bed               38 Release
+ aea4cd45559f5bf21fb20a208f3d30ff72621fc82c0fb1161c61a6f908fc86bbfba0e412c8eb4e3acdbfd21d2fbbd98e5c78d6411ecb3a62a0f64a3a3048be52              148 dists/stable/Release
+ a56e1812a6fa30fe4d2257ff760cae17c852bc1e9325771de7e7b0aa6d61c4438f240de489ba290fb89f06c4398fbc6dcd2001aed25476d839164a8425839045              300 dists/stable/main/binary-all/Packages.gz
+ a56e1812a6fa30fe4d2257ff760cae17c852bc1e9325771de7e7b0aa6d61c4438f240de489ba290fb89f06c4398fbc6dcd2001aed25476d839164a8425839045              300 dists/stable/main/binary-arm64/Packages.gz
