@@ -1,36 +1,26 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Mon, 09 Mar 2026 11:24:06 +0000
-MD5Sum:
- 71a34bf2eed8aeb14810e20f5c489cb7               38 Release
- f9ae8e6778453e8dc14e0d5208c9a3ca              300 main/binary-all/Packages.gz
- f9ae8e6778453e8dc14e0d5208c9a3ca              300 main/binary-arm64/Packages.gz
-SHA1:
- 81a13bb8c7d84da9bb921cef0d1227926ab85d70               38 Release
- a9cb22e5c1defc489e1f85b4b605574d1a5861b3              300 main/binary-all/Packages.gz
- a9cb22e5c1defc489e1f85b4b605574d1a5861b3              300 main/binary-arm64/Packages.gz
-SHA256:
- 1842063d195615b18386144d5a3ec5ba24f31f39e0431e05690522364663d825               38 Release
- 6b6db3ed2c24610ebf73a150fe3fa7fa8cd3d6aced8ac0551079f02d1965340a              300 main/binary-all/Packages.gz
- 6b6db3ed2c24610ebf73a150fe3fa7fa8cd3d6aced8ac0551079f02d1965340a              300 main/binary-arm64/Packages.gz
-SHA512:
- 2b04e1eb2911a92edaa2a0e72c0a9686d83cc19f43e867ca66cca0aaac07a8757136ebf2c5fabe32f8d0f239777fd2a16c90e815e5b353d5aedc7c52ab3b092e               38 Release
- a56e1812a6fa30fe4d2257ff760cae17c852bc1e9325771de7e7b0aa6d61c4438f240de489ba290fb89f06c4398fbc6dcd2001aed25476d839164a8425839045              300 main/binary-all/Packages.gz
- a56e1812a6fa30fe4d2257ff760cae17c852bc1e9325771de7e7b0aa6d61c4438f240de489ba290fb89f06c4398fbc6dcd2001aed25476d839164a8425839045              300 main/binary-arm64/Packages.gz
+Origin: Hemantha-Test
+Label: Hemantha-Test
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Test repository for Hemantha-Test packages
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEo4yGK0YB8Mw94QviTk0eLbGnKLYFAmmuriQACgkQTk0eLbGn
-KLaEKA//WhXgsHDbfbeYJm3fCsghN+iL8v+K+ErjfcI13Qs2jAZJV/mFjLMhV/+Y
-aod21BzZglJ5thtnaB5mmFz7x3dV/Ql1G19Ha2KRmUou51z1/T8RPKkWJLM5Cy6t
-KW3FIPa+fUl/S8IWTvK/4uJgONtYC4GADLgDgYI6nVyJfeuu/RULaJbQFZnuhBGr
-qfyMXGga+eTtMfp9DN5vqSnrMfv0ZMi42xgvBPwVnjEu9b+oNRa2U1Xg/zC8UhX6
-KvE/nb7vPbMogv4u4Uw74Um4nplhjh5qZy2YdrAcSLj8iAxQWTVhvgSfC/eTi8JX
-JdSm4zDwZaDYh0NGcS5PgQBjprgorop6ltyO8JMoeM3puB90pAYlDEUrHOLXo+Kb
-CK8rxrZZvgl1lVYVGsGlPOYMNdNj2gXHw+HN+Bp6A4UUAqL1w527ZCtXrZ5aJ2cc
-Z+EIDtBQQpEOBI2ZaJ95gcYBFHB091iCx6x2EPHo2dJ0rL0iqbQ+sdlK+Z5eqkFB
-PGtXlHaCi0tQQu/tcBfMMlNdnBFAy2ABaMJdp8yus5/qn6gMzmU1MtDau5glwdBY
-cZNZNUUFgJ2Icb+aSqOu1+hB1ecVym/PeKnHLTtC4KPmerCzFSiuOr/D9EbKaGo5
-aN57aO9EhWQPRyaL+BxbpY//4RXIqvfudNoW4KujrxF3h/1sEHg=
-=z0Jn
+iQIzBAEBCgAdFiEEo4yGK0YB8Mw94QviTk0eLbGnKLYFAmmusFIACgkQTk0eLbGn
+KLbslw//asgaHJkm1RKw0oLRVmqTRaq1BNzQdVW21WghwWqJohfySis5pcT9ydQ+
+oL2zqiTY1IXTVdBFUTgQpQJlXf6V2w63ncEYUeZbKKrkkOMQG8gTzWZaW9zml2Dd
+h8eJOu/LoMJ9k36hbA4nvGxYFNvVM1MAholV3eA8KGadPv7C9hh9w+pW2nspP8gg
+rU0tLSsH+CRP3LDIh54DnvDtn+Wq79PfIOrxcCeay8q3TmWRKYI1JoQXD8iSAOn9
+PBwHXDuh7tihapPqGeZvW3+a6QZ3u3t39AT/mYPrbklAMb9Fv7R9ZfWXhRHKw8HJ
+QVhXCkQP+NLHH80upLDGATsK9n2YcwZxLjOcVuAGyE10QI9tTXmnIPG+5CLZOsyZ
+VxH+GBGZi8wOh6knW0RMsKQL2a6ON6ZRmEMux4JO1trhIa9qkzgxBEQnmfMQQDEt
+GGxwaRIYiv0sSE5BITn2KW0ruZFigV58UA65S+kAO9lGESheSWfMoIQNNNm75Qpc
+xVBbbWQQNrFtz4ikohCNvJ8AA490PSFLMKVFD/OyjEpH8GcwYXjYhSEAg5sR63UN
+1ZFsg4I0pCFGAOLvwor1Jbjcxg2JhUNakLp0vF08Whg8sycVtkvoXd8uy9zjQooc
+tHPgcWDyKk6m5e+yOBCL64HrF8h3MwQZVZMTMEm2wwwfU6fvn6c=
+=4wc1
 -----END PGP SIGNATURE-----
