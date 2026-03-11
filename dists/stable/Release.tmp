@@ -1,0 +1,8 @@
+Origin: Hemantha-Test
+Label: Hemantha-Test
+Suite: stable
+Codename: stable
+Architectures: arm64 all
+Components: main
+Description: Hemantha Test Repository
+Date: Wed, 11 Mar 2026 07:41:13 +0000
