@@ -1,32 +1,25 @@
-Architectures: arm64 all
-Codename: stable
-Components: main
-Date: Fri, 13 Mar 2026 14:56:45 +0000
-Description: Hemantha Test Repository updated with new key
-Label: Hemantha-Test
-Origin: Hemantha-Test
-Suite: stable
+Date: Mon, 16 Mar 2026 08:34:41 +0000
 MD5Sum:
- 41cf817a00fbd2c38fe916832d09bf73              213 Release
- d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
- 551112f9845c1a643dd06e6189ab38e1               29 main/binary-all/Packages.gz
+ 75ef571d4b42363ced819b512b128f35               38 Release
+ 5240a7a53ec64b44f90b7a5094d22a3a              397 main/binary-all/Packages
+ 0533ce35ddc27f6313b0ad79c852f443              309 main/binary-all/Packages.gz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm64/Packages
  551112f9845c1a643dd06e6189ab38e1               29 main/binary-arm64/Packages.gz
 SHA1:
- 51cc34dad678e7771e5e16d995e0f1ff7788c69d              213 Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
- d050ca695f7b8c1a468049a042c5079e74e51223               29 main/binary-all/Packages.gz
+ ded042901a6ee26f664a5721214415f12065ad74               38 Release
+ 54a062a70fa6b5dcd10e860b7492e1d28b4d4bf7              397 main/binary-all/Packages
+ 2c167c5c22b5d09a0d7af05acd43229680e49678              309 main/binary-all/Packages.gz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm64/Packages
  d050ca695f7b8c1a468049a042c5079e74e51223               29 main/binary-arm64/Packages.gz
 SHA256:
- 78d7f4a0ab361c928bf4e94b272de94477644f67f79b02271abac5d4fdd8fef0              213 Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
- 0de7af1608a56df5b280b4f27acffafc9f0b0c9db8a59163c41696ab62fd939c               29 main/binary-all/Packages.gz
+ ce489e72f24ee7b38993b345afefb273e0781c8ddb6b9e0843c7df56649b8305               38 Release
+ 83285e640eef95f80f4f90dfe65480f55791fd9d54b91b1646f2f8f433c299e1              397 main/binary-all/Packages
+ ecc4aa169701bebbe3e225fdb6e048230a33462e1054839a32e63798860c3d59              309 main/binary-all/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm64/Packages
  0de7af1608a56df5b280b4f27acffafc9f0b0c9db8a59163c41696ab62fd939c               29 main/binary-arm64/Packages.gz
 SHA512:
- af46d9757f28bea31991c8c333a7ff54c63060426feb715e0c412847c86ea9d2d241dad987bad4ba8bdb3de72dab7c5ae9ff531f1414dd2def84ecb4254e22c7              213 Release
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
- 7c1560327985ecd20caf9a986fe7c425cb04e06046f81351fb956e11236ea7b1c50eaaf10bffbda601691198c9803c0051dea644468c0608297af23666179a01               29 main/binary-all/Packages.gz
+ 48afa449bf4bd0e9db5ed542c82511eb493f4030363ed271db78055b432574a2d1be8966452e6bbda02d08e96f8163ca29282d2c8306f7c53f6256b65bf3ffff               38 Release
+ 629318ffec5152046d71c75a35a189a3a91c27875c39c55e9f61e08dc77df898397181760945c69e44fe7f75e8451c3fc35ed25a6986e63f7948b70321c1f370              397 main/binary-all/Packages
+ 00ddd543e6e313e203d2754f3e852167b35c2492a46924869abf730a327f80479ccba026209226ad9315b44dea1906986c69e86c06dc7cded781eafff47f3674              309 main/binary-all/Packages.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm64/Packages
  7c1560327985ecd20caf9a986fe7c425cb04e06046f81351fb956e11236ea7b1c50eaaf10bffbda601691198c9803c0051dea644468c0608297af23666179a01               29 main/binary-arm64/Packages.gz
